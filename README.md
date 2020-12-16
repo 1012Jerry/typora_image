@@ -1,0 +1,2 @@
+# typora_image
+用于存放使用typora编写Markdown文档时插入图片
